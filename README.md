@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Abu Osama Shaikh and I'm asoftware developer, from Mumbai, India</h1>
+<h1 align="left">Hi 👋! My name is Abu Osama Shaikh and I'm a software developer, from Mumbai, India</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,js,jquery,java,html,css,postman,firebase,sqlite,flutter,dart,vscode,androidstudio,bootstrap,c,cpp,git,github&perline=8"  />
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,js,jquery,java,html,css,postman,firebase,sqlite,flutter,dart,vscode,androidstudio,bootstrap,c,cpp,git,github,stackoverflow,sublime,idea,powershell&perline=6"  />
 </div>
 
 ###
