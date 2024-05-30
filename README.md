@@ -10,6 +10,7 @@
 ###
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/Shady-shaikh/Shady-shaikh/main/giphy.webp"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/Shady-shaikh/Shady-shaikh/main/giphy.webp"  />
 
 ###
 
