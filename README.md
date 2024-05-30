@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,js,jquery,java,html,css,postman,firebase,sqlite,flutter,dart,vscode,androidstudio,bootstrap,git,github"  />
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,js,jquery,java,html,css,postman,firebase,sqlite,flutter,dart,vscode,androidstudio,bootstrap,git,github&perline=6"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
 </div>
