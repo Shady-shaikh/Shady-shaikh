@@ -10,6 +10,7 @@
 ###
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+<br>
 
 ###
 
