@@ -26,9 +26,7 @@
   <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Indeed&logo=indeed&label=&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Indeed logo"  />
   </a>
-  <a href="https://www.instagram.com/abu_osama_2000/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram         logo"  />
-  </a>
+  
 </div>
 
 ###
